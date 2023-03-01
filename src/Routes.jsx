@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import Register from "./Register";
+import Register from "./Register.jsx";
 import { UserContext } from "./UserContext.jsx";
 import Chat from "./Chat";
 
